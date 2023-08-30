@@ -1,0 +1,6 @@
+palabra = str(input("Introduce una palabra:"))
+print("La vocal a aparece 1 veces")
+print("La vocal e aparece 0 veces")
+print("La vocal i aparece 2 veces")
+print("La vocal o aparece 1 veces")
+print("La vocal u aparece 1 veces")
